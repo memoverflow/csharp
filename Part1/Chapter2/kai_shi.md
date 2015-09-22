@@ -17,3 +17,18 @@ namespace Wrox
     }
 }
 ```
+将上面的文件通过vs或者记事本打开，保存成以.cs结尾的文件，我们可以用C#的命令行工具csc.exe编译源代码，例如：
+
+```csc First.cs```
+
+如果你想通过命令行的方式编译源代码，你必须使用.NET命令行工具，这个命令行工具只有你安装了完整的.NET环境才有。
+将命令行保存成可执行文件First.exe，如下面的格式，双击运行：
+```
+csc First.cs
+Microsoft (R) Visual C# Compiler version 12.0.21005.1
+for C# 5.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+First.exe
+Hello from Wrox.
+```
+
