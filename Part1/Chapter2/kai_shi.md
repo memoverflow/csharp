@@ -10,7 +10,7 @@ namespace Wrox
     {
         static void Main()
         {
-            Console.WriteLine("Hello from Wrox.");
+            Console.WriteLine("hello world.");
             Console.ReadLine();
             return;
         }
