@@ -29,6 +29,6 @@ Microsoft (R) Visual C# Compiler version 12.0.21005.1
 for C# 5.0
 Copyright (C) Microsoft Corporation. All rights reserved.
 First.exe
-Hello from Wrox.
+hello world.
 ```
 
